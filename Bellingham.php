@@ -1,0 +1,2 @@
+<?php
+ecgo "hola mundo"
